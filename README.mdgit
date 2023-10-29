@@ -1,0 +1,2 @@
+"# dbrand_clone"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/aflhaflu/dbrand_clone.gitgit push -u origin main
+"# dbrand_clone"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/aflhaflu/dbrand_clone.gitgit push -u origin main
